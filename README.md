@@ -68,8 +68,8 @@ Single-agent safety doesn't compose. The boundary moved from the model to the **
 
 ### Currently
 
-- **OSCP+** track · active on PortSwigger / HackTheBox / TryHackMe (Top 15%)
-- Entering bug bounty — HackerOne · Bugcrowd · Intigriti · **Immunefi / Web3** (Aug 2026)
+- **OSCP+** track · active on PortSwigger / HackTheBox / TryHackMe
+- Entering bug bounty — HackerOne · Bugcrowd · Intigriti · 
 - Web3 audit stack: Foundry · Slither · Aderyn · Halmos · Echidna
 
 ---
