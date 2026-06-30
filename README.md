@@ -10,9 +10,9 @@ Founder of <a href="https://maseclab.com"><strong>MASec Lab</strong></a>: offens
 <p align="center">
   <a href="https://maseclab.com">maseclab.com</a> ·
   <a href="https://maseclab.com/blog">Blog</a> ·
-  <a href="https://x.com/evkir">x.com/evkir</a> ·
+  <a href="https://x.com/evkir">x.com/maseclab</a> ·
   <a href="https://hackerone.com/evkir">HackerOne</a> ·
-  <a href="https://medium.com/@ekiriyak">Medium</a>
+  
 </p>
 
 <p align="center">
