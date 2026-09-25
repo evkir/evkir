@@ -11,7 +11,8 @@ Founder of <a href="https://maseclab.com"><strong>MASec Lab</strong></a>: offens
   <a href="https://maseclab.com">maseclab.com</a> ·
   <a href="https://maseclab.com/blog">Blog</a> ·
   <a href="https://x.com/maseclab">x.com/maseclab</a> ·
-  <a href="https://hackerone.com/evkir">HackerOne</a>
+  <a href="https://bugcrowd.com/h/evkir">Bugcrowd</a> ·
+  <a href="https://app.hackthebox.com/users/3039943">HTB</a>
 </p>
 
 <p align="center">
@@ -70,7 +71,7 @@ Single-agent safety doesn't compose. The boundary moved from the model to the **
 ### Currently
 
 - **OSCP+** track · active on PortSwigger / HackTheBox / TryHackMe
-- Bug bounty — HackerOne · Bugcrowd · Intigriti · Immunefi
+- Bug bounty — Bugcrowd · Intigriti · Immunefi
 - Web3 audit stack: Foundry · Slither · Aderyn · Halmos · Echidna
 
 ---
