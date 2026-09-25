@@ -43,6 +43,15 @@ Single-agent safety doesn't compose. The boundary moved from the model to the **
 
 ---
 
+### Recent writeups
+
+- **The Layer Nobody Baselines** — runtime behavioural detection for the MCP agent bus. [→](https://maseclab.com/blog/the-layer-nobody-baselines/)
+- **Hunting MCP Tool Poisoning** — malicious instructions hidden in tool metadata, and how CyberAI catches them. [→](https://maseclab.com/blog/hunting-mcp-tool-poisoning/)
+- **Agent-in-the-Middle** — what's wrong with unsigned A2A agent cards. [→](https://maseclab.com/blog/agent-in-the-middle/)
+- **Why the coordination layer is the real attack surface** — single-agent safety doesn't compose. [→](https://maseclab.com/blog/coordination-layer/)
+
+---
+
 ### Research — methodology, in the open
 
 - **ABFP** — *Agent Behavioural FingerPrint.* Baseline an agent by **how it acts** across 6 dimensions; surface drift, hijack and impersonation as statistical deviations instead of predefined rules.
@@ -56,15 +65,6 @@ Single-agent safety doesn't compose. The boundary moved from the model to the **
 - **[phantom-grid](https://github.com/evkir/phantom-grid)** — free Burp Collaborator alternative: OOB interaction capture (HTTP/HTTPS/DNS), SQLite store + DNS exfil reassembly.
 - **[phantom-intel](https://github.com/evkir/phantom-intel)** — CVE threat-intelligence platform on the NVD API 2.0 (CVSS, exploit assessment, CWE KB, EN/RU).
 - **[reality-probe](https://github.com/evkir/reality-probe)** — VLESS/Reality SNI selection under 2026 DPI: freeze-test, ASN/subnet topology scoring, subnet-neighbor discovery.
-
----
-
-### Recent writeups
-
-- **The Layer Nobody Baselines** — runtime behavioural detection for the MCP agent bus. [→](https://maseclab.com/blog/the-layer-nobody-baselines/)
-- **Hunting MCP Tool Poisoning** — malicious instructions hidden in tool metadata, and how CyberAI catches them. [→](https://maseclab.com/blog/hunting-mcp-tool-poisoning/)
-- **Agent-in-the-Middle** — what's wrong with unsigned A2A agent cards. [→](https://maseclab.com/blog/agent-in-the-middle/)
-- **Why the coordination layer is the real attack surface** — single-agent safety doesn't compose. [→](https://maseclab.com/blog/coordination-layer/)
 
 ---
 
